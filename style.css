@@ -242,7 +242,28 @@ header .navbar ul li a:hover{
     border-left: .2rem solid #fff;
     position: relative;
 }
-
+.education .box-container .box1 {
+    color: white;
+    width: 85rem;
+    margin: 4rem 1rem;
+    padding-left: 4rem;
+    border-left: 0.2rem solid #fff;
+    position: relative;
+    font-size: 15px;
+}
+.education .box-container .box1 i {
+    position: absolute;
+    top: -1.5rem;
+    left: -2.5rem;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    line-height: 5rem;
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background: var(--yellow);
+}
 .education .box-container .box span{
     font-size: 1.3rem;
     background:#222;

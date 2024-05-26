@@ -482,3 +482,21 @@ header .navbar ul li a:hover{
     color: white;
     font-size: 2rem;
  }
+
+ .theme{
+    height: 40px;
+    width:40px ;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    color: white;
+    font-size: 1.1rem;
+    border: 0.4px solid grey;
+ }
+ .theme:active{
+    background-color: #2448f9;
+ }

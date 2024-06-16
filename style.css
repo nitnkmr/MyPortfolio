@@ -500,3 +500,20 @@ header .navbar ul li a:hover{
  .theme:active{
     background-color: #2448f9;
  }
+
+ .projectContainer{
+    background: #856565;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    z-index: 1000;
+ }
+ #projects{
+    height: 70px;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+ }
+ #projects button{
+    background: #2448f9;
+ }
